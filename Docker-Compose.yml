@@ -1,0 +1,8 @@
+services:
+  pdf_saver:
+    build: ./Docker/PDF-Saver
+    container_name: PDF-Saver
+
+  pdf_file:
+    build: Docker/PDF-Filesaver
+    container_name: PDF-Filesaver
