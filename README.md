@@ -1,6 +1,6 @@
 # PDF Gathering Discord Bot
 
-This is a Discord bot written in Python that gathers PDF files from all accessible text channels in a Discord server, logs command usage, tracks bot metrics, and outputs PDF metadata to a CSV file. The bot also includes features such as tracking high-confidence duplicate PDFs, unauthorized access handling, and interaction with Google Sheets for storage.
+This is a Discord bot written in Python that gathers PDF files from all accessible text channels in a Discord server, logs command usage, tracks bot metrics, and outputs PDF metadata to a CSV file. The bot also includes features such as tracking high-confidence duplicate PDFs, unauthorized access handling, and interaction with Google Sheets for storage. Created with [Zero_sum](https://github.com/ZeroSums)
 # Features
 
     Gather PDFs: The bot scans all text channels for PDF attachments and logs information such as the name, CDN link, author, and category into a CSV file.
