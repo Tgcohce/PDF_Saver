@@ -294,7 +294,7 @@ async def gather_pdfs(ctx):
             f"**Average Runtime per PDF:** {(total_runtime / pdf_count if pdf_count > 0 else 0):.2f} seconds\n"
             "\n"
             "**Google Sheets URL:**\n"
-            "https://docs.google.com/spreadsheets/d/1c8hbUpct3gv8ZGUvuuDZL-7WmiRizVzdMx5tDBIJYOE/edit?gid=0\n"
+            "GOOGLE SHEET URL"
             "```"
         )
 
