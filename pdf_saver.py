@@ -7,10 +7,10 @@ channels and save their details to a CSV file.
 
 import csv
 import os
+import time
 from dotenv import load_dotenv
 import discord
 from discord.ext import commands
-import time
 
 # Load environment variables from the .env file
 load_dotenv()
